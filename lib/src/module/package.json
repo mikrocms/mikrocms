@@ -1,0 +1,22 @@
+{
+  "name": "mikrocms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Package of mikrocms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikrocms/mikrocms.git"
+  },
+  "keywords": [
+    "mikrocms"
+  ],
+  "author": "mikrocms",
+  "bugs": {
+    "url": "https://github.com/musasutisna/pusdal-salmontrack/issues"
+  },
+  "homepage": "https://github.com/musasutisna/pusdal-salmontrack#readme"
+}

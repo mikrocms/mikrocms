@@ -1,0 +1,25 @@
+{
+  "name": "mikrocms",
+  "version": "1.0.0",
+  "description": "Tool to create a mikrocms project",
+  "main": "index.js",
+  "bin": {
+    "mikrocms": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikrocms/mikrocms.git"
+  },
+  "keywords": [
+    "mikrocms"
+  ],
+  "author": "mikrocms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikrocms/mikrocms/issues"
+  },
+  "homepage": "https://github.com/mikrocms/mikrocms#readme"
+}

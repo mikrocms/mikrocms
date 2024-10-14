@@ -1,0 +1,32 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon ./bin/www",
+    "start": "node ./bin/www"
+  },
+  "nodemonConfig": {
+    "watch": [
+      "app.js",
+      "bin",
+      "mikrocms.js"
+    ],
+    "ext": "js,json",
+    "delay": 2500
+  },
+  "dependencies": {
+    "@mikro-cms/api": "^1.0.0",
+    "@mikro-cms/core": "^1.0.0",
+    "@mikro-cms/swagger": "^1.0.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "mysql2": "^3.10.3",
+    "nodemon": "^3.1.4",
+    "sequelize": "^6.37.3"
+  }
+}
