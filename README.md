@@ -83,3 +83,28 @@ npx mikrocms service {http_method} {endpoint} {endpoint_router} {module_router}
 ```
 
 Adding a new module service or modified exsiting module service.
+
+## Module CRUD
+
+```bash
+npx mikrocms crud {schema_name}
+```
+
+Adding a new module crud from a schema.
+
+```js
+module.exports = {
+  "schema": [
+    // define all list schema here
+  ],
+  "migration": [
+    // define all migration here
+  ],
+  "crud": {
+    "create": true,
+    "read": true,
+    "update": true,
+    "delete": true
+  }
+};
+```
