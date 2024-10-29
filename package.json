@@ -1,6 +1,6 @@
 {
   "name": "mikrocms",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "description": "Tool to create a mikrocms project",
   "main": "index.js",
   "bin": {
