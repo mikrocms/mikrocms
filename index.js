@@ -37,6 +37,9 @@ if (process.env.mikrocms !== 'MODULE') {
     case 'service':
       generate.service(...args);
     break;
+    case 'crud':
+      generate.crud(...args);
+    break;
     default:
       console.log(`uknown command "${command}"`);
     break;
