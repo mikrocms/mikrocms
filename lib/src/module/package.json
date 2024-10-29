@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/musasutisna/pusdal-salmontrack/issues"
   },
-  "homepage": "https://github.com/musasutisna/pusdal-salmontrack#readme"
+  "homepage": "https://github.com/musasutisna/pusdal-salmontrack#readme",
+  "dependencies": {
+    "@mikrocms/core": "^1.1.1",
+    "@mikrocms/swagger": "^1.0.1"
+  }
 }
