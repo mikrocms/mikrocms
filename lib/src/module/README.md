@@ -4,8 +4,8 @@ Package of mikrocms.
 
 | Specification | version |
 |:--|:--:|
-| mikrocms/core | 1.1.1 |
-| mikrocms/swagger | 1.0.1 |
+| mikrocms/core | 1.2.2 |
+| mikrocms/swagger | 1.2.0 |
 
 
 ## Services
