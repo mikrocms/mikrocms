@@ -16,9 +16,9 @@
     "delay": 2500
   },
   "dependencies": {
-    "@mikrocms/api": "^1.1.2",
-    "@mikrocms/core": "^1.1.1",
-    "@mikrocms/swagger": "^1.0.1",
+    "@mikrocms/api": "^1.2.0",
+    "@mikrocms/core": "^1.2.2",
+    "@mikrocms/swagger": "^1.2.0",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
